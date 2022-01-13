@@ -1,7 +1,6 @@
 # Predicting-gene-expression-from-histone-modification-signals-using-Machine-Learning
 Gene expression prediction 
-
-# Histone modifications play an important role in affecting gene regulation. Predicting gene expression from histone modification signals is an important research topic. The dataset is on primary T CD8+ naive cells from peripheral blood cell type from the Roadmap Epigenomics Mapping Consortium database. For each gene, there are 100 bins with five core histone modification marks. The 10,000 base pair (bp) DNA region (+/-5000bp) around the transcription start site of each gene was divided into bins of length 100 bp. Reads of 100 bp in each bin were counted. The signal of each gene has a shape of 100x5.![image](https://user-
+Histone modifications play an important role in affecting gene regulation. Predicting gene expression from histone modification signals is an important research topic. The dataset is on primary T CD8+ naive cells from peripheral blood cell type from the Roadmap Epigenomics Mapping Consortium database. For each gene, there are 100 bins with five core histone modification marks. The 10,000 base pair (bp) DNA region (+/-5000bp) around the transcription start site of each gene was divided into bins of length 100 bp. Reads of 100 bp in each bin were counted. The signal of each gene has a shape of 100x5
 
 # Download histone_modifications_dataset.zip
 It should contain 2 files: features.csv and output.csv. 
