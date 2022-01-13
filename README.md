@@ -13,4 +13,5 @@ The goal is to develop a model that can accurately predict gene expression level
 4.	http://www.roadmapepigenomics.org
 5.	Kundaje, A. et al. Integrative analysis of 111 reference human epigenomes. Nature, 518, 317–330, 2015.
 
-
+# Used logistic regression and k-nearest neighbors algorithm(knn)(a non-parametric classification method)
+programming language used: MATLAB
